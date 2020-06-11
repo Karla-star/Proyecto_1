@@ -1,4 +1,6 @@
 function functio_name(argument){
 
 	//body...
+	contenido de la funcion...
+
 }
