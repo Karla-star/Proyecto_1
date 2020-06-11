@@ -1,6 +1,6 @@
 function functio_name(argument){
 
 	//body...
-	renderizando la grafica 1
+	renderizando la grafica 2
 
 }
